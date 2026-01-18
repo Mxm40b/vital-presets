@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: witmt-vdgxm
-created: 2026-01-11T23:40:27+01:00
